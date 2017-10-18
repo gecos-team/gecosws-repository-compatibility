@@ -2,10 +2,10 @@
 # Fichero de configuración de paquetes de personalización de GECOS
 
 # Nombre del paquete (minúsculas-separado-con-guiones)
-name: gecos-system-conf
+name: gecosws-repository-compatibility
 
 # Autor 
-author: Roberto C. Morano <rcmorano@emergya.com>
+author: Abraham Macias <amacias@solutia-it.es>
 
 #Priority
 priority: optional
@@ -14,14 +14,14 @@ priority: optional
 section: metapackages
 
 # Descripción corta
-shortdesc: "GECOS system configuration package."
+shortdesc: "GECOS system repositories compatibility package."
 
 # Descripción larga, las lineas han de estar separadas por "\n "
-longdesc: "This package contains every GECOS system configuration file."
+longdesc: "This package contains the white list for the repositories allowed in this version of Guadalinex GECOS."
 
 
 # Versión del paquete
-version: 2.0
+version: 1.0
 
 # Cambios en esta versión
 changes:
