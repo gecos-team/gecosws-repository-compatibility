@@ -21,8 +21,8 @@ longdesc: "This package contains the white list for the repositories allowed in 
 
 
 # Versión del paquete
-version: 1.0
+version: 2.0
 
 # Cambios en esta versión
 changes:
-    - Initial release.
+    - Update to GECOS V3.
